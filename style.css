@@ -1,0 +1,18 @@
+.col-md-1 {
+    background-color: aqua;
+}
+.col-2 {
+    background-color:burlywood;
+}
+.col-3 {
+    background-color:darkcyan;
+}
+.col-6 {
+    background-color:fuchsia;
+}
+.col-lg-6 {
+    background-color:green;
+}
+.col-md-1, .col-2, .col-3, .col-6, .col-lg-6 {
+    border: 1px solid;
+}
